@@ -17,7 +17,7 @@ python3 -m venv .venv
 .venv\Scripts\activate
 setup    
 ``` 
-  
+
 # Ejecución de pru ebas
 
 Ejecute el siguiente comando en el terminal:
