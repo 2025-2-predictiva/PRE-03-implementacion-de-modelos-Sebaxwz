@@ -15,7 +15,7 @@ Ejecute los siguientes comandos
 ```bash
 python3 -m venv .venv
 .venv\Scripts\activate
-setup 
+setup  
 ```
 
 # Ejecución de pruebas
@@ -24,5 +24,5 @@ Ejecute el siguiente comando en el terminal:
 
 ```bash
 pytest 
-```    
+```     
    
